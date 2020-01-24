@@ -1,8 +1,8 @@
-## Statistical-Thinking
+# Statistical-Thinking
 
-# Assignment
+## Assignment
 
-# Instructions
+## Instructions
 
 
 In the next series of challenges, we will predict employee salaries from different employee characteristics (or features). We ask employees working in four different fields to state their salary and some background information.
